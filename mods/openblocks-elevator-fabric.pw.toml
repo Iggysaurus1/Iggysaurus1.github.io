@@ -1,0 +1,13 @@
+name = "OpenBlocks Elevator (Fabric)"
+filename = "openblockselevator-0.0.2-1.19.X.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20f955789e085175eecfa46a13b3f22ba8b8c605"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4367620
+project-id = 667474

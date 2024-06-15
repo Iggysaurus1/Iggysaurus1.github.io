@@ -1,0 +1,13 @@
+name = "Potion Blender"
+filename = "Potion-Blender-1.19.2-FABRIC-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xe4saW9d/versions/gYIh3fcf/Potion-Blender-1.19.2-FABRIC-1.1.0.jar"
+hash-format = "sha1"
+hash = "da67e47b5ade2b476d55c6d2bf715ef9989b3a85"
+
+[update]
+[update.modrinth]
+mod-id = "xe4saW9d"
+version = "gYIh3fcf"

@@ -1,0 +1,4 @@
+clickerActive = false
+clickDelayInt = 40
+targetEntityMode = false
+attackCooldownMode = true
