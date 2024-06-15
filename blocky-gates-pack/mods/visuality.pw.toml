@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/TrPcZLjs/visuality-0.5.6.
 hash-format = "sha1"
 hash = "86eafa73e5de6f6aec6401312f3b242a6e48b94b"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "rI0hvYcd"

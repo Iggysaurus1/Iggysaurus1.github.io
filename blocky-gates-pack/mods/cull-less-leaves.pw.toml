@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/iG6ZHsUV/versions/H9oZ7N6p/CullLessLeaves-1
 hash-format = "sha1"
 hash = "e721078b00197fbd71e294b5ab4702b6b64a0b71"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "iG6ZHsUV"

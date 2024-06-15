@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/s9hF9QGp/versions/wTzilwFv/cosmetica-1.19.1
 hash-format = "sha1"
 hash = "14e9423993c4832bfd1f315e89344f6de6d78017"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "s9hF9QGp"

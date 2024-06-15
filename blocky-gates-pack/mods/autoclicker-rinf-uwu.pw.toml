@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/HxpkMeaf/versions/Y9GtEqmU/autoclicker-rinf
 hash-format = "sha1"
 hash = "63414617c5c15627a0ee9585eba58085e9ab3a65"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "HxpkMeaf"

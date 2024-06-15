@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/G1s2WpNo/versions/jRCKko1i/BetterThirdPerso
 hash-format = "sha1"
 hash = "d7f51904aa11b45d928898b44b626581eecd6b4d"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "G1s2WpNo"

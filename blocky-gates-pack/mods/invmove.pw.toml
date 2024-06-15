@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/REfW2AEX/versions/WIXovitR/InvMove-1.19-0.8
 hash-format = "sha1"
 hash = "ba0cd45f5880b72038299555da8b6e17cd40dffa"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "REfW2AEX"

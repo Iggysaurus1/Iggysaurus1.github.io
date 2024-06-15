@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.9%2B1.19/ok_zo
 hash-format = "sha1"
 hash = "a4a39502796a8bae98d4334aba973fb861d30110"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "aXf2OSFU"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/Hoop89kN/versions/hiVtV8jI/sfcr-1.7.6-mc1.1
 hash-format = "sha1"
 hash = "f3d1dc18529b84aaf177b81c7fdbc5634910a87d"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "Hoop89kN"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/AGwutJJF/versions/fRc4IXHA/biomemoss-1.1.0.
 hash-format = "sha1"
 hash = "9186cfc571f8c6e03cf7392cebfa121fe41aee1b"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "AGwutJJF"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/GeeOF6nB/skinlayers3d-fab
 hash-format = "sha1"
 hash = "fd4ee264081132f29d75cf44955de8da034710ef"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/tyANotOf/versions/rNxzvTSj/emogg-1.0-BETA.3
 hash-format = "sha1"
 hash = "3d7b06b813df6da3c196f784cdffd59bb976623c"
 
+[option]
+optional = True
+default = True
+
 [update]
 [update.modrinth]
 mod-id = "tyANotOf"
