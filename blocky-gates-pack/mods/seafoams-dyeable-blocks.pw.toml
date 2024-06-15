@@ -1,0 +1,13 @@
+name = "Seafoam's Dyeable Blocks"
+filename = "SeafoamsDyeableBlocks-1.3.0~Fabric-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cqzBP1Uu/versions/H2R721mB/SeafoamsDyeableBlocks-1.3.0~Fabric-1.19.2.jar"
+hash-format = "sha1"
+hash = "8e849935d88d9683bd4d74268388605ce33b51de"
+
+[update]
+[update.modrinth]
+mod-id = "cqzBP1Uu"
+version = "H2R721mB"

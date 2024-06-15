@@ -1,0 +1,13 @@
+name = "Autoclicker RinF(Modrinth edition)"
+filename = "autoclicker-rinf-1.19.2-1.0.0R.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HxpkMeaf/versions/Y9GtEqmU/autoclicker-rinf-1.19.2-1.0.0R.jar"
+hash-format = "sha1"
+hash = "63414617c5c15627a0ee9585eba58085e9ab3a65"
+
+[update]
+[update.modrinth]
+mod-id = "HxpkMeaf"
+version = "Y9GtEqmU"

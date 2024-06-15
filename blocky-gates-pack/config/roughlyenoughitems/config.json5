@@ -1,0 +1,198 @@
+{
+	"basics": {
+		"favorites": [
+			"{data:{Count:1b,id:\"minecraft:waxed_cut_copper_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:polished_travertine_wall\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobblestone_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:fishing_rod\",tag:{Damage:36},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:smooth_windswept_sandstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"stained_wood:white_stained_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bundle\",tag:{Items:[{Count:1b,id:\"naturescompass:naturescompass\",tag:{BiomeID:\"byg:windswept_desert\",DisplayCoordinates:1b,FoundX:4464,FoundZ:28879,Samples:2462,SearchRadius:3000,State:2}},{Count:1b,id:\"minecraft:shears\",tag:{Damage:1}},{Count:1b,id:\"minecraft:carved_pumpkin\",tag:{RepairCost:0,display:{Name:'{\"text\":\"Hush\"}'}}}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:quartzite_sand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:redstone_lamp\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:flowering_azalea\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shulker_box\",tag:{BlockEntityTag:{id:\"minecraft:shulker_box\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:azalea\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:quartz\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:white_wool\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"brewinandchewin:keg\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:powered_rail\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bamboo\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:windswept_sandstone_pillar\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:ender_chest\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:sand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:player_head\",tag:{SkullOwner:{Id:[I;-350229982,-2092808527,-1195118315,624765337],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U3Nzk4OTY1NjQ3MTZmMzNmZTI4YTM3MDNjYTFmY2IwOTUyNzkwYzFjMTc4NDg3MDJjZDljNmFmMWFkIn19fQ==\"}]}},display:{Lore:['{\"text\":\"Fancy Cube,Steve\"}'],Name:'{\"text\":\"Scattered Steve\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:player_head\",tag:{SkullOwner:{Id:[I;-770916060,-272086617,-1380218621,-2043218788],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDljNTk1NjEzMDM0YTA5NTk4OTQxZTBmMzUwMDc2MzZjNzQwMDk5ZDZiYjc2MTgxZDA5YWVlMWJlZDFlMjFmNCJ9fX0=\"}]}},display:{Lore:['{\"text\":\"Fancy Cube\"}'],Name:'{\"text\":\"Fancy Cube (pink)\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:player_head\",tag:{SkullOwner:{Id:[I;151098769,564349563,-1705550912,-399607298],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmMyZTk3MmFmYTkxMTViNmQzMjA3NWIxZjFiN2ZlZDdhYTI5YTUzNDFjMTAyNDI4ODM2MWFiZThlNjliNDYifX19\"}]}},display:{Lore:['{\"text\":\"Colored Blocks\"}'],Name:'{\"text\":\"Orange red (#FF4500)\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:player_head\",tag:{SkullOwner:{Id:[I;-1969200420,-1739439439,-1372081416,-1559094258],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzg2MTg1YjFkNTE5YWRlNTg1ZjE4NGMzNGYzZjNlMjBiYjY0MWRlYjg3OWU4MTM3OGU0ZWFmMjA5Mjg3In19fQ==\"}]}},display:{Name:'{\"italic\":false,\"color\":\"white\",\"translate\":\"spectatorMenu.next_page\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:player_head\",tag:{SkullOwner:{Id:[I;-1125676653,-830780715,-1808573763,1520501656],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRhOWE4ODFlZmE4YTE0YjFjNDVlZDRjNWU4ZGUyNTBiM2IxMjdiMzdhYWEyZTdjOGU1OTkyNmVmOWJiNGIyYiJ9fX0=\"}]}},display:{Lore:['{\"text\":\"Fancy Cube\"}'],Name:'{\"text\":\"Fancy Cube\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shulker_box\",tag:{BlockEntityTag:{Items:[{Count:64b,Slot:0b,id:\"minecraft:stone\"},{Count:64b,Slot:1b,id:\"minecraft:stone\"},{Count:64b,Slot:2b,id:\"minecraft:stone\"},{Count:64b,Slot:3b,id:\"minecraft:stone\"},{Count:64b,Slot:4b,id:\"minecraft:stone\"},{Count:64b,Slot:5b,id:\"minecraft:stone\"},{Count:64b,Slot:6b,id:\"minecraft:stone\"},{Count:64b,Slot:7b,id:\"minecraft:stone\"},{Count:64b,Slot:8b,id:\"minecraft:stone\"},{Count:64b,Slot:9b,id:\"minecraft:stone\"},{Count:64b,Slot:10b,id:\"minecraft:stone\"},{Count:64b,Slot:11b,id:\"minecraft:stone\"},{Count:64b,Slot:12b,id:\"minecraft:stone\"},{Count:64b,Slot:13b,id:\"minecraft:stone\"},{Count:64b,Slot:14b,id:\"minecraft:stone\"},{Count:64b,Slot:15b,id:\"minecraft:stone\"},{Count:64b,Slot:16b,id:\"minecraft:stone\"},{Count:64b,Slot:17b,id:\"minecraft:stone\"},{Count:64b,Slot:18b,id:\"minecraft:stone\"},{Count:64b,Slot:19b,id:\"minecraft:stone\"},{Count:64b,Slot:20b,id:\"minecraft:stone\"},{Count:64b,Slot:21b,id:\"minecraft:stone\"},{Count:64b,Slot:22b,id:\"minecraft:stone\"},{Count:64b,Slot:23b,id:\"minecraft:stone\"},{Count:64b,Slot:24b,id:\"minecraft:stone\"},{Count:64b,Slot:25b,id:\"minecraft:stone\"},{Count:15b,Slot:26b,id:\"minecraft:stone\"}],id:\"minecraft:shulker_box\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
+		"hiddenFavorites": [],
+		"displayHistory": [],
+		// Declares whether cheating mode is on.
+		"cheating": "WHEN_CREATIVE",
+		"favoritesEnabled": true,
+		"keyBindings": {
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.u",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.o",
+				"modifier": 2
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.mouse.middle",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.a",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.f8",
+				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.backspace",
+				"modifier": 0
+			}
+		},
+		// Declares whether REI is visible.
+		"overlayVisible": true,
+		"cheatingStyle": "GRAB",
+		"motion": {
+			"favoritesAnimation": true
+		}
+	},
+	"advanced": {
+		"filtering": {
+			"shouldFilterDisplays": true,
+			"filteringRules": [
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+			],
+			"filteringQuickCraftCategories": { },
+			"filteredStacks": []
+		},
+		"enableJeiCompatibilityLayer": true,
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": true,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
+		},
+		"layout": {
+			// The ordering of the items on the entry panel.
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPerPage": 8,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
+			// Declares whether entry rendering time should be debugged.
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true,
+			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
+		},
+		"accessibility": {
+			"entrySize": 1.0,
+			// Declares the position of the entry panel.
+			"displayPanelLocation": "RIGHT",
+			// Declares how the scrollbar in composite screen should act.
+			"compositeScrollBarPermanent": false,
+			"toastDisplayedOnCopyIdentifier": true,
+			// Declares whether REI should use compact tabs for categories.
+			"useCompactTabs": true,
+			// Declares whether REI should use compact tab buttons for categories.
+			"useCompactTabButtons": false
+		},
+		"search": {
+			// Declares whether search time should be debugged.
+			"debugSearchTimeRequired": false,
+			// Declares whether REI should search async.
+			"asyncSearch": true,
+			// Declares how many entries should be grouped one async search.
+			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
+			"tooltipSearch": "ALWAYS",
+			"tagSearch": "PREFIX",
+			"identifierSearch": "ALWAYS",
+			"modSearch": "PREFIX"
+		},
+		"commands": {
+			// Declares the command used to change gamemode.
+			"gamemodeCommand": "/gamemode {gamemode}",
+			// Declares the command used in servers to cheat items.
+			"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+			// Declares the command used to change weather.
+			"weatherCommand": "/weather {weather}",
+			// Declares the command used to change time.
+			"timeCommand": "/time set {time}"
+		},
+		"miscellaneous": {
+			// Declares whether arrows in containers should be clickable.
+			"clickableRecipeArrows": true,
+			"registerRecipesInAnotherThread": true,
+			"newFastEntryRendering": true,
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
+		}
+	},
+	"appearance": {
+		"recipeScreenType": "ORIGINAL",
+		// Declares the appearance of REI windows.
+		"theme": "LIGHT",
+		"layout": {
+			// Declares the position of the search field.
+			"searchFieldLocation": "CENTER",
+			// Declares the position of the config button.
+			"configButtonLocation": "LOWER",
+			// Declares whether the craftable filter button is enabled.
+			"showCraftableOnlyButton": true
+		},
+		// Declares the appearance of recipe's border.
+		"recipeBorder": "DEFAULT",
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": false,
+		"horizontalEntriesBoundaries": 0.95,
+		"verticalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
+		"syntaxHighlightingMode": "COLORFUL",
+		"isFocusModeZoomed": false
+	},
+	"functionality": {
+		"inputMethod": null,
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": true,
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": true,
+		// Declares whether subsets is enabled.
+		"isSubsetsEnabled": false,
+		"allowInventoryHighlighting": true,
+		"itemCheatingMode": "REI_LIKE"
+	}
+}

@@ -1,0 +1,13 @@
+name = "Allay in a Bottle"
+filename = "Allay-In-A-Bottle-1.1.0-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51e0e6e417c3fbc8496a9c19efdfb9e157c635ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4226679
+project-id = 759620

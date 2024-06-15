@@ -1,0 +1,13 @@
+name = "VeinDigging"
+filename = "VeinDigging-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qo9d9jpM/versions/ErbSd0Yl/VeinDigging-1.0.1.jar"
+hash-format = "sha1"
+hash = "d348ab33d7c1904ba7bbae257ce7c69021e45fd9"
+
+[update]
+[update.modrinth]
+mod-id = "Qo9d9jpM"
+version = "ErbSd0Yl"

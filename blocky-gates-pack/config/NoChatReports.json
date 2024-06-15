@@ -1,0 +1,5 @@
+{
+  "demandOnClient": true,
+  "demandOnServer": true,
+  "convertToGameMessage": false
+}

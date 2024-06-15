@@ -1,0 +1,13 @@
+name = "Disable menu music"
+filename = "119-1192.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f9KJTi50/versions/1.19/119-1192.zip"
+hash-format = "sha1"
+hash = "4843a9ef89e269a6e28a11d6ace33aebb3bef558"
+
+[update]
+[update.modrinth]
+mod-id = "f9KJTi50"
+version = "xbyzlaCE"
