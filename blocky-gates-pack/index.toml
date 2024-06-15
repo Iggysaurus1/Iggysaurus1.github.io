@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "508b6e3475e33e8a0fc58531143d520a685346f4d825843f037db618f5b368cc"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "94c566b23ed31585dc4b88b056744ff375689a3915580aa656810d0f599b2ddf"
 
@@ -1018,6 +1022,10 @@ hash = "89549950ee7cf1c16c1bd724b016b3346d5d511b7b3000d0afbb655813bf69b6"
 metafile = true
 
 [[files]]
+file = "mods/Structory-1.19-v1.3.jar"
+hash = "5aea3bce30a3fc3733a6bb492bd68acc2cbd80722a33ef549474484d6df5e7ab"
+
+[[files]]
 file = "mods/allay-in-a-bottle.pw.toml"
 hash = "bae897cdb88b6c113c7e42c10e8021dd3831b4d76a5773dd189bd4bbb046ad7b"
 metafile = true
@@ -1364,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/hunger_regen.pw.toml"
-hash = "914007d33b2e5c59de519f7fa29fe0fca907069702d2ae17bfa26fc888b157f9"
+hash = "759fd6a4fc4dc0888f9b503a013f51cfe1fbee2bbb6707d0e6103a0605bb35bd"
 metafile = true
 
 [[files]]
@@ -1534,7 +1542,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
@@ -1634,11 +1642,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "40da095cbae844935e9647b5b41aeb2358d887f974996062c6fd062ef0d31a0d"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
 metafile = true
 
 [[files]]
@@ -1786,6 +1789,10 @@ file = "options.txt"
 hash = "d0e4c8f8d6455c0341f454a8657c6e0ad9f79af7807b3e043219b040154f2715"
 
 [[files]]
+file = "resourcepacks/ActuallySubtleEnchantGlint.zip"
+hash = "db8354e1723e5f19bc4536e4c5c44f683bf92260a356645deafd0b80c1378738"
+
+[[files]]
 file = "resourcepacks/BlockyGates/assets/minecraft/optifine/cit/models/block/adventure_time.json"
 hash = "beacd479e918daf0a9efc42849662361b46762c7c26b59df5b1772dd790ed8ea"
 
@@ -1837,11 +1844,6 @@ hash = "ce371a8bd18b01edfc7d61255fa6785174370e49783d1bf72e05ddc3c404669d"
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "7878f5d233c73d9e22d54c7765e68b9227103ae88cb5c1e8bf1c99d2505d8f9e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/subtle-enchantment-glint-rune-edition.pw.toml"
-hash = "bcc98476e553ea74a74f1d5a5c541872750e59290a9d68f27f7d1bd97b7c58a7"
 metafile = true
 
 [[files]]
