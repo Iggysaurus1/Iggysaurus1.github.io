@@ -1783,10 +1783,6 @@ hash = "f226c76915922eff0167fac761a4961576cb4ea0159871c4796813c93511073a"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "d0e4c8f8d6455c0341f454a8657c6e0ad9f79af7807b3e043219b040154f2715"
-
-[[files]]
 file = "resourcepacks/ActuallySubtleEnchantGlint.zip"
 hash = "db8354e1723e5f19bc4536e4c5c44f683bf92260a356645deafd0b80c1378738"
 
