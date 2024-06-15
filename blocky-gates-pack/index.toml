@@ -1630,8 +1630,9 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/stained_wood.px.toml"
+file = "mods/stained_wood.pw.toml"
 hash = "8990774bd0eca713c99232131985af9e2714d18494d123a34ea2f62746465ab3"
+metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
