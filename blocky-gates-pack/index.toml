@@ -1146,18 +1146,8 @@ hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "bd4c1da41f5e44004db0920732d151566f06631bf5c0579092e15d0ddc688a52"
-metafile = true
-
-[[files]]
 file = "mods/configured-fabric.pw.toml"
 hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
-metafile = true
-
-[[files]]
-file = "mods/configured.pw.toml"
-hash = "48a9fedafd4a3df4c837327f37c0ad44c0c565c3cb61d6a693879b6eee5ac4b5"
 metafile = true
 
 [[files]]
@@ -1376,9 +1366,8 @@ hash = "fe83c1df06cd4e49aa917756829ec51f0f42d91f9d817e7cf53e396863db0c7e"
 metafile = true
 
 [[files]]
-file = "mods/hunger_regen.pw.toml"
-hash = "759fd6a4fc4dc0888f9b503a013f51cfe1fbee2bbb6707d0e6103a0605bb35bd"
-metafile = true
+file = "mods/hunger_regen-1.0.1+1.19.2.jar"
+hash = "e7c1acc9da12b1d1417504dc1a3982a12ba37fe33c544ae28de71312aa054546"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
