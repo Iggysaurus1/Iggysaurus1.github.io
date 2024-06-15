@@ -1146,6 +1146,11 @@ hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "bd4c1da41f5e44004db0920732d151566f06631bf5c0579092e15d0ddc688a52"
+metafile = true
+
+[[files]]
 file = "mods/configured-fabric.pw.toml"
 hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
