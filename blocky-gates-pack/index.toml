@@ -1850,10 +1850,6 @@ file = "scripts/Recipes.zs"
 hash = "00dff3eec4611737f6fe7bf8adf57a210562fa7156d9be642a388ba4d856aef4"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt"
-hash = "9d6d11e058a43afc309942e2a25d1979a88cb9cdbcc57f67b93db182675d7275"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true
