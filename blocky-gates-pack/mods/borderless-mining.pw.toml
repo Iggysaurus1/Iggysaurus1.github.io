@@ -8,8 +8,8 @@ hash = "08f98e28057a0fbdb288c947b7871def4b18b176"
 mode = "metadata:curseforge"
 
 [option]
-optional = True
-default = True
+optional = true
+default = true
 
 [update]
 [update.curseforge]

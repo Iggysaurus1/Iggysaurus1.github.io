@@ -8,8 +8,8 @@ hash-format = "sha1"
 hash = "fde7ffee932782c7718fd0596864aa9058b7b93c"
 
 [option]
-optional = True
-default = True
+optional = true
+default = true
 
 [update]
 [update.modrinth]
